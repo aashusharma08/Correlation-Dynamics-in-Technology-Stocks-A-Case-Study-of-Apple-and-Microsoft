@@ -63,5 +63,5 @@ Feel free to improve this project! Fork, make changes, and submit a pull request
 This project is open-source and available under the **MIT License**.
 
 ## 📧 Contact
-For queries, reach out via GitHub or email me at **your.email@example.com**.
+For queries, reach out via GitHub or email me at **aaashu51767@gmail.com**.
 
